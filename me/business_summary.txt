@@ -1,0 +1,50 @@
+The A Way — University Tutoring Academy
+
+Business identity
+The A Way is a fictional university tutoring academy that helps university
+students understand difficult course material, plan their study time, and
+prepare for assessments.
+
+Mission
+The A Way makes structured, approachable academic support easier to find while
+being honest about what is and is not currently confirmed.
+
+Services
+- Course-focused tutoring and concept review
+- Study planning and exam preparation
+- Follow-up support for students who express interest
+- Academic outreach and teaching-assistant collaboration
+- Planning information about sessions and expected tuition
+
+Team
+The fictional demo team consists of Maya Haddad, cofounder and academic
+programs lead; Omar Khoury, cofounder and operations lead; and a network of
+course tutors and teaching assistants. These names are fictional demo facts
+for this assignment and do not identify real staff or current assignments.
+
+Unique value proposition
+The A Way combines course-aware tutoring support with transparent escalation:
+students receive clear answers from documented academy information, while
+unconfirmed prices, schedules, tutors, capacity, and availability are labeled
+as unavailable or unconfirmed instead of being guessed.
+
+Course catalog
+The reusable catalog includes:
+EECE 210, EECE 230, EECE 231, EECE 330, EECE 442, CMPS 201, CMPS 203, and
+CMPS 211.
+
+Catalog and active offerings
+These codes identify catalog courses only. The catalog is not proof that a
+course is currently open for registration. No active semester offerings are
+confirmed in this local demo dataset. Prices, schedules, tutors, capacity,
+registration status, and student enrollment are unavailable or unconfirmed
+unless an explicitly verified active-offering record is added.
+
+Student-facing boundaries
+This assistant can explain documented academy capabilities and record a
+student's interest or feedback in the local demo runtime. It does not perform
+official registration, process real payments, access administrator records,
+provide financial reporting, or operate student/tutor portals.
+
+Document status
+This is a fictional demo business profile prepared for the C3 agent assignment.

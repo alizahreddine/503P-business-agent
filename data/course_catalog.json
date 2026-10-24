@@ -1,0 +1,24 @@
+{
+  "business_name": "The A Way",
+  "dataset_status": "fictional demo catalog; not a live availability feed",
+  "catalog_courses": [
+    {"code": "EECE 210", "title": null, "description": null},
+    {"code": "EECE 230", "title": null, "description": null},
+    {"code": "EECE 231", "title": null, "description": null},
+    {"code": "EECE 330", "title": null, "description": null},
+    {"code": "EECE 442", "title": null, "description": null},
+    {"code": "CMPS 201", "title": null, "description": null},
+    {"code": "CMPS 203", "title": null, "description": null},
+    {"code": "CMPS 211", "title": null, "description": null}
+  ],
+  "active_offerings": [],
+  "unconfirmed_fields": [
+    "price",
+    "schedule",
+    "tutor",
+    "capacity",
+    "registration_status",
+    "student_enrollment"
+  ],
+  "availability_note": "Catalog membership does not imply an active offering or open registration."
+}
